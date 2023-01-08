@@ -57,7 +57,7 @@ const Page = () => {
                 </h1>
                 <p className="text-sm sm:text-base mt-3 text-center text-textVar1 max-w-xl">
                     <Balancer>
-                        Self Hosted!! - Improve your Brawlhalla Game, and find your place among
+                        Self Hosted Improve your Brawlhalla Game, and find your place among
                         the Elite with our in-depth stats tracking and live
                         leaderboards.
                     </Balancer>
