@@ -34,7 +34,7 @@ const Page = () => {
             />
             <div
                 className={cn(
-                    "flex flex-col justify-center items-center",
+                    "flex flex-col justify-center items-center p-0.5",
                     landingClassName,
                 )}
             >
@@ -57,7 +57,7 @@ const Page = () => {
                 </h1>
                 <p className="text-sm sm:text-base mt-3 text-center text-textVar1 max-w-xl">
                     <Balancer>
-                        Self Hosted Improve your Brawlhalla Game, and find your place among
+                        Improve your Brawlhalla Game, and find your place among
                         the Elite with our in-depth stats tracking and live
                         leaderboards.
                     </Balancer>
